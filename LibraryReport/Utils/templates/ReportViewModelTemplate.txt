@@ -1,0 +1,11 @@
+﻿LIBRARY REVIEW REPORT № ${Id}
+
+Created on ${CreatedOn}
+
+
+Libraries name..............${LibraryName}
+Count clients...............${CountClients}
+Count sections..............${CountSections}
+Count books.................${CountBooks}
+Count books in use..........${CountBooksInUse}
+Count books not in use......${CountBooksNotInUse}
